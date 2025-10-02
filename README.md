@@ -2,29 +2,6 @@
 
 This is a simple news reading application built with React. The app fetches news articles from a news API and displays them in a user-friendly format.
 
-## Project Structure
-
-```
-news-reader-app
-├── src
-│   ├── index.js                # Entry point of the application
-│   ├── components
-│   │   ├── NewsList.js         # Component to display a list of news items
-│   │   └── NewsItem.js         # Component to display individual news items
-│   ├── services
-│   │   └── newsApi.js          # Service for fetching news data from the API
-│   └── styles
-│       └── main.css            # CSS file for styling the application
-├── public
-│   └── index.html              # HTML template for the application
-├── package.json                 # npm configuration file
-└── README.md                   # Documentation for the project
-```
-
-## Getting Started
-
-To get started with the project, follow these steps:
-
 1. **Clone the repository:**
    ```
    git clone <repository-url>
